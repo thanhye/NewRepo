@@ -3,12 +3,60 @@
   "WorkspaceRootPath": "C:\\YEn\\se07103.asp.net\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|c:\\yen\\se07103.asp.net\\simswebapp\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|solutionrelative:simswebapp\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|c:\\yen\\se07103.asp.net\\simswebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|solutionrelative:simswebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|c:\\yen\\se07103.asp.net\\simswebapp\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|solutionrelative:simswebapp\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|c:\\yen\\se07103.asp.net\\simswebapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|solutionrelative:simswebapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|c:\\yen\\se07103.asp.net\\simswebapp\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|solutionrelative:simswebapp\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|c:\\yen\\se07103.asp.net\\simswebapp\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|solutionrelative:simswebapp\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|c:\\yen\\se07103.asp.net\\simswebapp\\services\\facultyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|solutionrelative:simswebapp\\services\\facultyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|c:\\yen\\se07103.asp.net\\simswebapp\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|solutionrelative:simswebapp\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|c:\\yen\\se07103.asp.net\\simswebapp\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|solutionrelative:simswebapp\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|c:\\yen\\se07103.asp.net\\simswebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|solutionrelative:simswebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|c:\\yen\\se07103.asp.net\\simswebapp\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|solutionrelative:simswebapp\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|c:\\yen\\se07103.asp.net\\simswebapp\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|solutionrelative:simswebapp\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|c:\\yen\\se07103.asp.net\\simswebapp\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|solutionrelative:simswebapp\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|c:\\yen\\se07103.asp.net\\simswebapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|solutionrelative:simswebapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|c:\\yen\\se07103.asp.net\\simswebapp\\views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|solutionrelative:simswebapp\\views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|c:\\yen\\se07103.asp.net\\simswebapp\\databasecontext\\simsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,18 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|c:\\yen\\se07103.asp.net\\simswebapp\\databasecontext\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|solutionrelative:simswebapp\\databasecontext\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|c:\\yen\\se07103.asp.net\\simswebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|solutionrelative:simswebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|c:\\yen\\se07103.asp.net\\simswebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|solutionrelative:simswebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|c:\\yen\\se07103.asp.net\\simswebapp\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|solutionrelative:simswebapp\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|c:\\yen\\se07103.asp.net\\simswebapp\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,11 +78,124 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "C:\\YEn\\se07103.asp.net\\SIMSWebApp\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "SIMSWebApp\\Controllers\\TestController.cs",
+              "ToolTip": "C:\\YEn\\se07103.asp.net\\SIMSWebApp\\Controllers\\TestController.cs",
+              "RelativeToolTip": "SIMSWebApp\\Controllers\\TestController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T21:36:00.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\YEn\\se07103.asp.net\\SIMSWebApp\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "SIMSWebApp\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\YEn\\se07103.asp.net\\SIMSWebApp\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "SIMSWebApp\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T21:35:59.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "C:\\YEn\\se07103.asp.net\\SIMSWebApp\\Services\\CourseService.cs",
+              "RelativeDocumentMoniker": "SIMSWebApp\\Services\\CourseService.cs",
+              "ToolTip": "C:\\YEn\\se07103.asp.net\\SIMSWebApp\\Services\\CourseService.cs",
+              "RelativeToolTip": "SIMSWebApp\\Services\\CourseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T21:27:50.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\YEn\\se07103.asp.net\\SIMSWebApp\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "SIMSWebApp\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\YEn\\se07103.asp.net\\SIMSWebApp\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "SIMSWebApp\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-06T20:40:14.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\YEn\\se07103.asp.net\\SIMSWebApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "SIMSWebApp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\YEn\\se07103.asp.net\\SIMSWebApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "SIMSWebApp\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T03:24:03.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\YEn\\se07103.asp.net\\SIMSWebApp\\Views\\Course\\Create.cshtml",
+              "RelativeDocumentMoniker": "SIMSWebApp\\Views\\Course\\Create.cshtml",
+              "ToolTip": "C:\\YEn\\se07103.asp.net\\SIMSWebApp\\Views\\Course\\Create.cshtml",
+              "RelativeToolTip": "SIMSWebApp\\Views\\Course\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T03:23:30.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\YEn\\se07103.asp.net\\SIMSWebApp\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "SIMSWebApp\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\YEn\\se07103.asp.net\\SIMSWebApp\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "SIMSWebApp\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T03:21:05.403Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\YEn\\se07103.asp.net\\SIMSWebApp\\Views\\Course\\Index.cshtml",
+              "RelativeDocumentMoniker": "SIMSWebApp\\Views\\Course\\Index.cshtml",
+              "ToolTip": "C:\\YEn\\se07103.asp.net\\SIMSWebApp\\Views\\Course\\Index.cshtml",
+              "RelativeToolTip": "SIMSWebApp\\Views\\Course\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T03:16:16.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\YEn\\se07103.asp.net\\SIMSWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "SIMSWebApp\\Program.cs",
+              "ToolTip": "C:\\YEn\\se07103.asp.net\\SIMSWebApp\\Program.cs",
+              "RelativeToolTip": "SIMSWebApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T01:28:22.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\YEn\\se07103.asp.net\\SIMSWebApp\\appsettings.json",
               "RelativeDocumentMoniker": "SIMSWebApp\\appsettings.json",
@@ -54,25 +203,37 @@
               "RelativeToolTip": "SIMSWebApp\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-31T02:47:12.624Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-31T02:47:12.624Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "LoginController.cs",
               "DocumentMoniker": "C:\\YEn\\se07103.asp.net\\SIMSWebApp\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "SIMSWebApp\\Controllers\\LoginController.cs",
               "ToolTip": "C:\\YEn\\se07103.asp.net\\SIMSWebApp\\Controllers\\LoginController.cs",
               "RelativeToolTip": "SIMSWebApp\\Controllers\\LoginController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wB4AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-31T02:07:43.351Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
+              "Title": "FacultyService.cs",
+              "DocumentMoniker": "C:\\YEn\\se07103.asp.net\\SIMSWebApp\\Services\\FacultyService.cs",
+              "RelativeDocumentMoniker": "SIMSWebApp\\Services\\FacultyService.cs",
+              "ToolTip": "C:\\YEn\\se07103.asp.net\\SIMSWebApp\\Services\\FacultyService.cs",
+              "RelativeToolTip": "SIMSWebApp\\Services\\FacultyService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T21:27:52.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\YEn\\se07103.asp.net\\SIMSWebApp\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "SIMSWebApp\\Services\\UserService.cs",
@@ -80,25 +241,23 @@
               "RelativeToolTip": "SIMSWebApp\\Services\\UserService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T01:58:46.056Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-31T01:58:46.056Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 11,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\YEn\\se07103.asp.net\\SIMSWebApp\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "SIMSWebApp\\Repositories\\UserRepository.cs",
               "ToolTip": "C:\\YEn\\se07103.asp.net\\SIMSWebApp\\Repositories\\UserRepository.cs",
               "RelativeToolTip": "SIMSWebApp\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAiwBQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwAgAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T01:42:58.865Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-31T01:42:58.865Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 16,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "C:\\YEn\\se07103.asp.net\\SIMSWebApp\\Interface\\IUserRepository.cs",
               "RelativeDocumentMoniker": "SIMSWebApp\\Interface\\IUserRepository.cs",
@@ -106,25 +265,11 @@
               "RelativeToolTip": "SIMSWebApp\\Interface\\IUserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T01:37:09.333Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-31T01:37:09.333Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\YEn\\se07103.asp.net\\SIMSWebApp\\Program.cs",
-              "RelativeDocumentMoniker": "SIMSWebApp\\Program.cs",
-              "ToolTip": "C:\\YEn\\se07103.asp.net\\SIMSWebApp\\Program.cs",
-              "RelativeToolTip": "SIMSWebApp\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T01:28:22.127Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 15,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\YEn\\se07103.asp.net\\SIMSWebApp\\DatabaseContext\\Entities\\User.cs",
               "RelativeDocumentMoniker": "SIMSWebApp\\DatabaseContext\\Entities\\User.cs",
@@ -132,12 +277,11 @@
               "RelativeToolTip": "SIMSWebApp\\DatabaseContext\\Entities\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T01:14:00.511Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-31T01:14:00.511Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 14,
               "Title": "SIMSDbContext.cs",
               "DocumentMoniker": "C:\\YEn\\se07103.asp.net\\SIMSWebApp\\DatabaseContext\\SIMSDbContext.cs",
               "RelativeDocumentMoniker": "SIMSWebApp\\DatabaseContext\\SIMSDbContext.cs",
@@ -145,8 +289,7 @@
               "RelativeToolTip": "SIMSWebApp\\DatabaseContext\\SIMSDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T01:04:10.794Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-31T01:04:10.794Z"
             }
           ]
         }

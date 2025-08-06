@@ -15,8 +15,25 @@ namespace SIMSWebApp
             builder.Services.AddDbContext<SIMSDbContext>(options => 
                 options.UseSqlServer(builder.Configuration.GetConnectionString("default"))
             );
+            
+            // Register repositories
             builder.Services.AddScoped<IUserRepository, UserRepository>();
+            builder.Services.AddScoped<IStudentRepository, StudentRepository>();
+            builder.Services.AddScoped<ICourseRepository, CourseRepository>();
+            builder.Services.AddScoped<IDepartmentRepository, DepartmentRepository>();
+            builder.Services.AddScoped<IFacultyRepository, FacultyRepository>();
+            builder.Services.AddScoped<IEnrollmentRepository, EnrollmentRepository>();
+            builder.Services.AddScoped<IProgramRepository, ProgramRepository>();
+            
+            // Register services
             builder.Services.AddScoped<UserService>();
+            builder.Services.AddScoped<StudentService>();
+            builder.Services.AddScoped<CourseService>();
+            builder.Services.AddScoped<DepartmentService>();
+            builder.Services.AddScoped<FacultyService>();
+            builder.Services.AddScoped<EnrollmentService>();
+            builder.Services.AddScoped<ProgramService>();
+            
             // Add services to the container.
             builder.Services.AddControllersWithViews();
 

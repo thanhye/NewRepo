@@ -9,7 +9,7 @@ namespace SIMSWebApp.Controllers
         private readonly UserService _userService;
         public LoginController(UserService userService)
         {
-            _userService = userService; 
+            _userService = userService;
         }
 
         [HttpGet]
@@ -19,23 +19,24 @@ namespace SIMSWebApp.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> Index(LoginViewModel model)
+
+        [HttpPost]
+        public IActionResult Login(LoginViewModel model)
         {
-            if (ModelState.IsValid)
+            if (!ModelState.IsValid)
             {
-                // khong co loi xay ra
-                string username = model.Username.Trim();
-                string password = model.Password.Trim();
-                var user = await _userService.LoginUserAsync(username, password);
-                if (user == null)
-                {
-                    // thong bao thong tin sai tai khoan ra ngoai view
-                    ViewData["InvalidAccount"] = "Your account invalid";
-                    return View(model);
-                }
-                return RedirectToAction("Index","Dashboard");
+                return View("Index", model);
             }
-            return View(model);
+
+            var user = _userService.ValidateUser(model.Username, model.Password);
+            if (user == null)
+            {
+                ModelState.AddModelError("", "Invalid username or password");
+                return View("Index", model);
+            }
+
+            // TODO: Implement session/authentication logic here
+            return RedirectToAction("Index", "Home");
         }
-    }
+
 }
